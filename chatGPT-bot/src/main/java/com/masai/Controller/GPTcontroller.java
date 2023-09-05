@@ -2,7 +2,6 @@ package com.masai.Controller;
 
 import com.masai.dto.ChatGPTrequest;
 import com.masai.dto.chatGPTresponse;
-import com.masai.dto.ChatGPTrequest;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -29,7 +28,7 @@ public class GPTcontroller {
 
     @GetMapping("/chat")
     public String chat(@RequestParam("prompt") String prompt){
-        ChatGPTrequest request=new ChatGPTrequest(model, prompt);
+    	ChatGPTrequest request=new ChatGPTrequest(model, prompt);
         chatGPTresponse chatGptResponse = template.postForObject(apiURL, request, chatGPTresponse.class);
         return chatGptResponse.getChoices().get(0).getMessage().getContent();
     }
