@@ -294,3 +294,7 @@ ordersLink.addEventListener('click', function(event) {
 function Logout(){
     window.location.href = "login.html"
 }
+
+function Chatbotactivate(){
+  window.location.href = "ChatBot.html"
+}

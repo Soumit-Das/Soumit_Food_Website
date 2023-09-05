@@ -447,3 +447,39 @@ section .content h1{
     padding: 20px;
     border-radius: 5px;
   }
+  .chatBtn{
+    background: #7380EC;
+    border: 1px solid #7380EC;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 2px;
+    min-height: 50px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 100%;
+    margin-top: 38px;
+  }
+  .chatBtn:hover,
+  .chatBtn:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #7380EC;
+  }
+  
+  .chatBtn:active {
+    opacity: .5;
+  }

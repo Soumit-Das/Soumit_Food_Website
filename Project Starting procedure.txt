@@ -1,0 +1,7 @@
+Project Starting procedure
+
+1. Open the backend folder with vscode and start the python app with command python /app.py
+
+2. Open the ChatBot folder with STS (import that folder in any workspace and run that application)
+
+3. Open the frontend folder with vscode and open the register or login page  
