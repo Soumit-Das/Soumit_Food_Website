@@ -91,31 +91,36 @@ python manage.py runserver
 ```
 Chatbot backend setup (Spring Boot):
 
-...
+
 Frontend setup (HTML/CSS/JS):
 
-...
 Database setup (MySQL):
 
-...
+
 Open your web browser and visit http://localhost:3000 to access the website.
 
-Tech Stack
+## Tech Stack
+
 List the technologies and frameworks used in your project:
 
 Backend (Website):
 
-Python (Flask)
+- Python
+- Flask
 
-Backend (Chatbot):
+## Backend (Chatbot):
 
-Spring Boot
+- Java
+- Hibernate
+- Spring Boot
 
-Frontend:
+## Frontend:
 
-HTML, CSS, JavaScript
+- HTML
+-  CSS
+-   JavaScript
 
-### Database:
+## Database:
 
 - MySQL
 
