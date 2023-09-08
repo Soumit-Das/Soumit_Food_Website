@@ -1,6 +1,10 @@
 # Soumit Food
 
-![Project Logo/Thumbnail](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/food%20website%20logo.png)
+
+
+<p align="center">
+  <img src="https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/food%20website%20logo.png" alt="Logo" width="60%" height="500">
+</p>
 
 **Description:** A modern food ordering website with an AI chatbot for personalized recommendations and assistance.
 
