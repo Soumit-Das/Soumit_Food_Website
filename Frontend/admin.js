@@ -307,3 +307,7 @@ function closeUpdateForm(){
 function ViewadminOrders(){
   window.location.href = "ordersadmin.html"
 }
+
+function redirectHome(){
+  window.location.href = "index.html"
+}

@@ -6,16 +6,25 @@
     <title>Document</title>
     <style>
 .navbar {
-  height: 30px;
-  background-color: blue;
+  height: 50px;
+  background-color: #7380EC;
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 6px;
 }
 
 .navbar-brand {
   color: white;
   text-decoration: none;
+  font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 2px;
+    min-height: 50px;
+    outline: 0;
+    padding: 12px 14px;
+    margin-top: 45px;
 }
 #orders-container {
   display: flex;
@@ -29,27 +38,34 @@
 
 #orders-table {
   background-color: rgb(207, 206, 206);
+  /* background-color: white; */
   color: white;
   margin-top: 10px;
   width: 80%;
 }
 
 #orders-table th {
-  background-color: black;
+  background-color: #7380EC;
   color: white;
-  height: 25px;
-}
+  height: 35px;
+  font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
 
+}
+#orders-table thead tr{
+  background-color: #7380EC;
+}
 #orders-table td {
-  height: 25px;
+  height: 30px;
   color: black;
   border: 1px solid black;
   text-align: center;
+  font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+
   /* align-items: center; */
 }
 
 #orders-table tr:first-child th {
-  background-color: black;
+  background-color: #7380EC;
   color: white;
 }
     </style>
