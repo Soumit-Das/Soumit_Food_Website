@@ -30,20 +30,21 @@ Include a link to a live demo of your website, if available. Provide clear instr
 
 ## Screenshots
 
-![HomePage](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/home%20page.png)
 *HomePage*
+![HomePage](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/home%20page.png)
 
-![OrdersPage](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/orders%20page.png)
+
 *OrdersPage*
+![OrdersPage](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/orders%20page.png)
 
-![Admin Page](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/admin%20page.png)
 *Admin Page*
+![Admin Page](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/admin%20page.png)
 
-![Dark Mode](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/admin%20page%20dark.png)
 *Dark Mode*
+![Dark Mode](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/admin%20page%20dark.png)
 
-![ChatBot](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/Chatbot%20page.png)
 *ChatBot*
+![ChatBot](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/Chatbot%20page.png)
 
 
 ## Features
