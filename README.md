@@ -26,17 +26,25 @@ Describe your project briefly, including its purpose, goals, and any unique sell
 
 Include a link to a live demo of your website, if available. Provide clear instructions on how users can access and interact with your website.
 
-[Live Demo](https://your-demo-url.com)
+[Live Demo](https://your-demo-url.com) 
 
 ## Screenshots
 
-Insert screenshots or images showcasing your website's user interface and features. You can organize them in a gallery format or individually with captions.
+![HomePage](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/home%20page.png)
+*HomePage*
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Caption for Screenshot 1*
+![OrdersPage](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/orders%20page.png)
+*OrdersPage*
 
-![Screenshot 2](screenshots/screenshot2.png)
-*Caption for Screenshot 2*
+![Admin Page](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/admin%20page.png)
+*Admin Page*
+
+![Dark Mode](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/admin%20page%20dark.png)
+*Dark Mode*
+
+![ChatBot](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/Chatbot%20page.png)
+*ChatBot*
+
 
 ## Features
 
@@ -57,25 +65,29 @@ Provide clear and concise instructions for setting up and running your project l
 
    ```bash
    git clone https://github.com/yourusername/soumit-food.git
+   ```
 
 
-   Backend setup (Python for website):
+Backend setup (Python for website):
 
-Install dependencies (e.g., Django, Flask):
+Install dependencies (e.g., Flask):
 
 bash
-Copy code
+```
 pip install -r requirements.txt
+```
 Database setup:
 
 bash
-Copy code
+```
 python manage.py migrate
+```
 Start the server:
 
 bash
-Copy code
+```
 python manage.py runserver
+```
 Chatbot backend setup (Spring Boot):
 
 ...
@@ -92,7 +104,7 @@ List the technologies and frameworks used in your project:
 
 Backend (Website):
 
-Python (Django, Flask, etc.)
+Python (Flask)
 ...
 Backend (Chatbot):
 
@@ -101,11 +113,10 @@ Spring Boot
 Frontend:
 
 HTML, CSS, JavaScript
-React.js, Vue.js, etc.
 ...
 Database:
 
-MySQL, PostgreSQL, etc.
+MySQL
 ...
 Database Schema
 Include an Entity-Relationship (ER) diagram or a description of your database schema if applicable.
