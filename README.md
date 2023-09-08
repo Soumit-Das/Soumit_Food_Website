@@ -1,97 +1,131 @@
-# Soumit_Food_Website
-Welcome to Soumit Food – a flavorful online restaurant experience. Indulge in seamless food ordering through our Python-Flask powered backend, complemented by an elegant frontend blend of HTML, CSS, and JS. MySQL database ensures efficient data management. Savor convenience, taste, and technology.
+# Soumit Food
 
-Soumit Food
-![Project Logo/Thumbnail]
+![Project Logo/Thumbnail](link-to-your-logo-or-thumbnail)
 
-A modern food ordering website with an AI chatbot. Users can browse the menu, place orders, and interact with the chatbot for a personalized experience.
+**Description:** A modern food ordering website with an AI chatbot for personalized recommendations and assistance.
 
-Table of Contents
-Demo
-Features
-Screenshots
-Getting Started
-Prerequisites
-Installation
-Tech Stack
-Database Schema
-Contributing
-License
-Demo
-Live Demo
+## Table of Contents
 
-Features
-Browse the menu with categories.
-Place food orders with a shopping cart.
-AI chatbot for recommendations and assistance.
-User authentication and profiles.
-Order history and tracking.
-Admin panel for managing menu and orders.
-Screenshots
-Screenshot 1
-Screenshot 2
+- [Overview](#overview)
+- [Demo](#demo)
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [Installation](#installation)
+- [Tech Stack](#tech-stack)
+- [Database Schema](#database-schema)
+- [Contributing](#contributing)
+- [License](#license)
 
-Getting Started
-Prerequisites
-Python for backend (version x.x.x)
-Spring Boot for chatbot (version x.x.x)
-MySQL database
-Node.js for frontend (version x.x.x)
-...
-Installation
-Clone the repository:
+---
+
+## Overview
+
+Describe your project briefly, including its purpose, goals, and any unique selling points. Explain why users should choose Soumit Food for their food ordering needs.
+
+## Demo
+
+Include a link to a live demo of your website, if available. Provide clear instructions on how users can access and interact with your website.
+
+[Live Demo](https://your-demo-url.com) 
+
+## Screenshots
+
+*HomePage*
+![HomePage](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/home%20page.png)
+
+
+*OrdersPage*
+![OrdersPage](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/orders%20page.png)
+
+*Admin Page*
+![Admin Page](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/admin%20page.png)
+
+*Dark Mode*
+![Dark Mode](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/admin%20page%20dark.png)
+
+*ChatBot*
+![ChatBot](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/Chatbot%20page.png)
+
+
+## Features
+
+List the key features of your website:
+
+- User registration and authentication.
+- Browse the menu with categories.
+- Place food orders with a shopping cart.
+- AI chatbot for personalized recommendations.
+- Order history and tracking.
+- Admin panel for menu and order management.
+
+## Installation
+
+Provide clear and concise instructions for setting up and running your project locally. Include any prerequisites, installation steps, and configuration requirements.
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/soumit-food.git
+   ```
+
+
+Backend setup (Python for website):
+
+Install dependencies (e.g., Flask):
 
 bash
-Copy code
-git clone https://github.com/yourusername/soumit-food.git
-Backend setup:
-
-Food Website (Python):
-
-bash
-Copy code
-cd soumit-food-backend
+```
 pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
-Chatbot (Spring Boot):
-
-bash
-Copy code
-cd chatbot-backend
-./mvnw spring-boot:run
-Frontend setup:
-
-bash
-Copy code
-cd soumit-food-frontend
-npm install
-npm start
+```
 Database setup:
 
-Create a MySQL database and configure the connection in application.properties.
+bash
+```
+python manage.py migrate
+```
+Start the server:
+
+bash
+```
+python manage.py runserver
+```
+Chatbot backend setup (Spring Boot):
+
+
+Frontend setup (HTML/CSS/JS):
+
+Database setup (MySQL):
+
+
 Open your web browser and visit http://localhost:3000 to access the website.
 
-Tech Stack
-Backend:
+## Tech Stack
 
-Python (Django)
-Spring Boot (Chatbot)
-...
-Frontend:
+List the technologies and frameworks used in your project:
 
-HTML, CSS, JavaScript
-React.js
-...
-Database:
+### Backend (Website):
 
-MySQL
-...
-Database Schema
+- Python
+- Flask
+
+### Backend (Chatbot):
+
+- Java
+- Hibernate
+- Spring Boot
+
+### Frontend:
+
+- HTML
+-  CSS
+-   JavaScript
+
+### Database:
+
+- MySQL
+
+## Database Schema
+
+
 ER Diagram
-
-Contributing
-Contributions are welcome! Please read the Contributing Guidelines for details on how to contribute to this project.
-
-License
-This project is licensed under the MIT License.
+![Er diagram](Link)
