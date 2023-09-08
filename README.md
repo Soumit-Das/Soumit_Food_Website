@@ -108,23 +108,24 @@ List the technologies and frameworks used in your project:
 - Python
 - Flask
 
-## Backend (Chatbot):
+### Backend (Chatbot):
 
 - Java
 - Hibernate
 - Spring Boot
 
-## Frontend:
+### Frontend:
 
 - HTML
 -  CSS
 -   JavaScript
 
-## Database:
+### Database:
 
 - MySQL
 
-Database Schema
-Include an Entity-Relationship (ER) diagram or a description of your database schema if applicable.
+## Database Schema
+
 
 ER Diagram
+![Er diagram](Link)
