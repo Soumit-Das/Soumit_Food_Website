@@ -24,11 +24,20 @@
 
 ## Overview
 
-Describe your project briefly, including its purpose, goals, and any unique selling points. Explain why users should choose Soumit Food for their food ordering needs.
+### Purpose:
+
+The primary purpose of Soumit Food is to provide users with a convenient, efficient, and user-friendly platform to order delicious food from a variety of restaurants and cuisines.
+We aim to simplify the food ordering process, save users' time, and enhance their overall dining experience.
+
+
+### Goals:
+
+Convenience: Our goal is to make food ordering as easy as possible. Users can browse menus, place orders, and track order status with just a few clicks.
+Personalization: The AI chatbot is a unique feature that sets us apart. It provides personalized recommendations, answers queries, and assists users throughout their ordering journey.
+Variety: Soumit Food offers a diverse range of restaurants and cuisines, ensuring that users have access to a wide selection of food options.
+Efficiency: We prioritize efficiency in order processing and delivery to ensure that users receive their food promptly and hot.
 
 ## Demo
-
-Include a link to a live demo of your website, if available. Provide clear instructions on how users can access and interact with your website.
 
 [Live Demo](https://your-demo-url.com) 
 
