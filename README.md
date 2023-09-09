@@ -135,4 +135,3 @@ Frontend setup (HTML/CSS/JS):
 Database setup (MySQL):
 
 
-Open your web browser and visit http://localhost:3000 to access the website.
