@@ -62,6 +62,40 @@ List the key features of your website:
 - Order history and tracking.
 - Admin panel for menu and order management.
 
+
+
+## Tech Stack
+
+List the technologies and frameworks used in your project:
+
+### Backend (Website):
+
+- Python
+- Flask
+
+### Backend (Chatbot):
+
+- Java
+- Hibernate
+- Spring Boot
+
+### Frontend:
+
+- HTML
+-  CSS
+-   JavaScript
+
+### Database:
+
+- MySQL
+
+## Database Schema
+
+
+ER Diagram
+![Er diagram](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/food%20website%20ER%20diagram.png)
+
+
 ## Installation
 
 Provide clear and concise instructions for setting up and running your project locally. Include any prerequisites, installation steps, and configuration requirements.
@@ -102,34 +136,3 @@ Database setup (MySQL):
 
 
 Open your web browser and visit http://localhost:3000 to access the website.
-
-## Tech Stack
-
-List the technologies and frameworks used in your project:
-
-### Backend (Website):
-
-- Python
-- Flask
-
-### Backend (Chatbot):
-
-- Java
-- Hibernate
-- Spring Boot
-
-### Frontend:
-
-- HTML
--  CSS
--   JavaScript
-
-### Database:
-
-- MySQL
-
-## Database Schema
-
-
-ER Diagram
-![Er diagram](https://github.com/Soumit-Das/Soumit_Food_Website/blob/master/Frontend/Images/food%20website%20ER%20diagram.png)
