@@ -17,8 +17,7 @@
 - [Installation](#installation)
 - [Tech Stack](#tech-stack)
 - [Database Schema](#database-schema)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
